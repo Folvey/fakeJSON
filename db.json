@@ -1,0 +1,37 @@
+{
+"response": [{"f_name": "eemya",
+			"l_name": "lastEemya",
+			"birthday": "birth",
+			"avatarUrl": "url",
+			"specialty": [{"specialty_id": "101", "name": "спец"}]
+    		},
+		{
+			"f_name": "eemya",
+			"l_name": "lastEemya",
+			"birthday": "birth",
+			"avatarUrl": "url",
+			"specialty": [{"specialty_id": "101", "name": "спец"}]
+    		},
+		{
+			"f_name": "eemya",
+			"l_name": "lastEemya",
+			"birthday": "birth",
+			"avatarUrl": "url",
+			"specialty": [{"specialty_id": "101", "name": "спец"}]
+    		},
+		{
+			"f_name": "eemya",
+			"l_name": "lastEemya",
+			"birthday": "birth",
+			"avatarUrl": "url",
+			"specialty": [{"specialty_id": "101", "name": "спец"}]
+    		},
+		{
+			"f_name": "eemya",
+			"l_name": "lastEemya",
+			"birthday": "birth",
+			"avatarUrl": "url",
+"specialty": [{"specialty_id": "101", "name": "спец"}]
+    		}
+	]
+}
