@@ -6,7 +6,6 @@
 			"birthday"	: "1997-03-23",
 			"avatar_url"	: "https://2.cdn.echo.msk.ru/files/avatar2/2561900.jpg",
 			"specialty" : [{
-				"specialty_id" : 101,
 				"name"	: "Молодец"
 			}]
 		},
@@ -16,7 +15,6 @@
 			"birthday"	: "1997-15-02",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/1253126.jpg",
 			"specialty" : [{
-				"specialty_id" : 101,
 				"name"	: "Go разработчик"
 			}]
 		},
@@ -26,11 +24,9 @@
 			"birthday"	: "1997-11-29",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/1450682.jpg",
 			"specialty" : [{
-				"specialty_id" : 101,
 				"name"	: "SMM-менеджер"
 			},
 			{
-				"specialty_id" : 102,
 				"name"	: "Специалист по работе с клиентами"
 			}]
 		},
@@ -40,7 +36,6 @@
 			"birthday"	: "1997-01-07",
 			"avatar_url" : "",
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Старший инженер-разработчик"
 			}]
 		},
@@ -50,7 +45,6 @@
 			"birthday"	: "",
 			"avatar_url" : null,
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Хороший человек"
 			}]
 		},
@@ -60,7 +54,6 @@
 			"birthday"	: "",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/2441412.jpg",
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Пират"
 			}]
 		},
@@ -70,7 +63,6 @@
 			"birthday"	: "23-07-2000",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/808879.jpg",
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Разработчик"
 			}]
 		},
@@ -80,7 +72,6 @@
 			"birthday"	: "23-07-1982",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/2933492.jpg",
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Разработчик"
 			}]
 		},
@@ -90,7 +81,6 @@
 			"birthday"	: "17-10-1984",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/844319.jpg",
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Разработчик"
 			}]
 		},
@@ -100,7 +90,6 @@
 			"birthday"	: "03-08-1972",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/3073407.jpg",
 			"specialty" : [{
-				"specialty_id" : 102,
 				"name"	: "Разработчик"
 			}]
 		}
