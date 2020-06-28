@@ -1,72 +1,72 @@
 {
 	"response" : [
 		{
-			"f_name" 	: "иВан",
-			"l_name" 	: "ИваноВ",
-			"birthday"	: "1987-03-23",
+			"f_name" 	: "Иван",
+			"l_name" 	: "Гришин",
+			"birthday"	: "1997-03-23",
 			"avatar_url"	: "https://2.cdn.echo.msk.ru/files/avatar2/2561900.jpg",
 			"specialty" : [{
 				"specialty_id" : 101,
-				"name"	: "Менеджер"
+				"name"	: "Молодец"
 			}]
 		},
 		{
-			"f_name" 	: "Петр",
-			"l_name" 	: "петроВ",
-			"birthday"	: null,
+			"f_name" 	: "Артем",
+			"l_name" 	: "Ахрамеев",
+			"birthday"	: "1997-15-02",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/1253126.jpg",
 			"specialty" : [{
 				"specialty_id" : 101,
-				"name"	: "Менеджер"
-			}]
-		},
-		{
-			"f_name" 	: "Вася",
-			"l_name" 	: "Пупкин",
-			"birthday"	: "1985-11-29",
-			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/1450682.jpg",
-			"specialty" : [{
-				"specialty_id" : 101,
-				"name"	: "Менеджер"
-			},
-			{
-				"specialty_id" : 102,
-				"name"	: "Разработчик"
-			}]
-		},
-		{
-			"f_name" 	: "ЕКАТЕРИНА",
-			"l_name" 	: "пертрова",
-			"birthday"	: "1990-01-07",
-			"avatar_url" : "",
-			"specialty" : [{
-				"specialty_id" : 102,
-				"name"	: "Разработчик"
-			}]
-		},
-		{
-			"f_name" 	: "Николай",
-			"l_name" 	: "Сидоров",
-			"birthday"	: "",
-			"avatar_url" : null,
-			"specialty" : [{
-				"specialty_id" : 102,
-				"name"	: "Разработчик"
-			}]
-		},
-		{
-			"f_name" 	: "Виктор",
-			"l_name" 	: "Федотов",
-			"birthday"	: "23-07-2000",
-			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/2441412.jpg",
-			"specialty" : [{
-				"specialty_id" : 102,
-				"name"	: "Разработчик"
+				"name"	: "Go разработчик"
 			}]
 		},
 		{
 			"f_name" 	: "Артур",
-			"l_name" 	: "ВАрламов",
+			"l_name" 	: "Шакья",
+			"birthday"	: "1997-11-29",
+			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/1450682.jpg",
+			"specialty" : [{
+				"specialty_id" : 101,
+				"name"	: "SMM-менеджер"
+			},
+			{
+				"specialty_id" : 102,
+				"name"	: "Специалист по работе с клиентами"
+			}]
+		},
+		{
+			"f_name" 	: "Алексей",
+			"l_name" 	: "Казанцев",
+			"birthday"	: "1997-01-07",
+			"avatar_url" : "",
+			"specialty" : [{
+				"specialty_id" : 102,
+				"name"	: "Старший инженер-разработчик"
+			}]
+		},
+		{
+			"f_name" 	: "Томас",
+			"l_name" 	: "Вингфилд",
+			"birthday"	: "",
+			"avatar_url" : null,
+			"specialty" : [{
+				"specialty_id" : 102,
+				"name"	: "Хороший человек"
+			}]
+		},
+		{
+			"f_name" 	: "Капитан",
+			"l_name" 	: "Блад",
+			"birthday"	: "",
+			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/2441412.jpg",
+			"specialty" : [{
+				"specialty_id" : 102,
+				"name"	: "Пират"
+			}]
+		},
+		{
+			"f_name" 	: "Артур",
+			"l_name" 	: "Варламов",
 			"birthday"	: "23-07-2000",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/808879.jpg",
 			"specialty" : [{
