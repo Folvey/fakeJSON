@@ -67,8 +67,8 @@
 			}]
 		},
 		{
-			"f_name" 	: "Артур",
-			"l_name" 	: "ВАрламов",
+			"f_name" 	: "Сергей",
+			"l_name" 	: "Гладий",
 			"birthday"	: "23-07-1982",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/2933492.jpg",
 			"specialty" : [{
@@ -86,7 +86,7 @@
 		},
 		{
 			"f_name" 	: "Владимир",
-			"l_name" 	: "Миронов",
+			"l_name" 	: "Гореносов",
 			"birthday"	: "03-08-1972",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/3073407.jpg",
 			"specialty" : [{
