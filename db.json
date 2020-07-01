@@ -65,9 +65,9 @@
 			}]
 		},
 		{
-			"f_name" 	: "Артур",
-			"l_name" 	: "Варламов",
-			"birthday"	: "23-07-2000",
+			"f_name" 	: "Ксения",
+			"l_name" 	: "Полякова",
+			"birthday"	: "23-07-1998",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/808879.jpg",
 			"specialty" : [{
 				"specialty_id" : 100,
@@ -75,20 +75,10 @@
 			}]
 		},
 		{
-			"f_name" 	: "Сергей",
-			"l_name" 	: "Гладий",
-			"birthday"	: "23-07-1982",
+			"f_name" 	: "Анна",
+			"l_name" 	: "Виноградова",
+			"birthday"	: "06-06-1997",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/2933492.jpg",
-			"specialty" : [{
-				"specialty_id" : 100,
-				"name"	: "Разработчик"
-			}]
-		},
-		{
-			"f_name" 	: "Руслан",
-			"l_name" 	: "Русанов",
-			"birthday"	: "17-10-1984",
-			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/844319.jpg",
 			"specialty" : [{
 				"specialty_id" : 100,
 				"name"	: "Разработчик"
