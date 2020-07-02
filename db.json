@@ -11,10 +11,10 @@
 			}]
 		},
 		{
-			"f_name"	: "",
-			"l_name"	: "",
-			"birthday"	: "",
-			"avatar_url"	: "",
+			"f_name"	: "Мел",
+			"l_name"	: "Гибсон",
+			"birthday"	: "03-01-1997",
+			"avatar_url"	: "https://www.kinonews.ru/insimgs/persimg/persimg48.jpg",
 			"specialty" : [{
 				"specialty_id" : 100,
 				"name"	: "Актер"
