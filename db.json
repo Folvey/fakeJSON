@@ -1,14 +1,10 @@
 {
 	"response" : [
 		{
-			"f_name" 	: "Иван",
-			"l_name" 	: "Гришин",
-			"birthday"	: "1997-03-23",
-			"avatar_url"	: "https://2.cdn.echo.msk.ru/files/avatar2/2561900.jpg",
-			"specialty" : [{
-				"specialty_id" : 100,
-				"name"	: "Молодец"
-			}]
+			"f_name" 	: "Метт",
+			"l_name" 	: "Деймон",
+			"birthday"	: "1970-10-08",
+			"avatar_url"	: "https://www.film.ru/img/afisha/GSHEP/450/03.jpg",
 		},
 		{
 			"f_name"	: "Мел",
