@@ -71,16 +71,6 @@
 			}]
 		},
 		{
-			"f_name" 	: "Ксения",
-			"l_name" 	: "Полякова",
-			"birthday"	: "23-07-1998",
-			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/808879.jpg",
-			"specialty" : [{
-				"specialty_id" : 100,
-				"name"	: "Юрист"
-			}]
-		},
-		{
 			"f_name" 	: "Анна",
 			"l_name" 	: "Виноградова",
 			"birthday"	: "06-06-1997",
@@ -95,10 +85,6 @@
 			"l_name" 	: "Якиманен",
 			"birthday"	: "03-08-1994",
 			"avatar_url" : "https://2.cdn.echo.msk.ru/files/avatar2/3073407.jpg",
-			"specialty" : [{
-				"specialty_id" : 100,
-				"name"	: "ios-разработчик"
-			}]
 		}
 	]
 }
