@@ -11,6 +11,16 @@
 			}]
 		},
 		{
+			"f_name"	: "",
+			"l_name"	: "",
+			"birthday"	: "",
+			"avatar_url"	: "",
+			"specialty" : [{
+				"specialty_id" : 100,
+				"name"	: "Актер"
+			}]
+		}
+		{
 			"f_name" 	: "Артем",
 			"l_name" 	: "Ахрамеев",
 			"birthday"	: "1997-15-02",
